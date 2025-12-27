@@ -1,0 +1,19 @@
+{
+  "name": "erlc-roleplay-bot",
+  "version": "1.0.0",
+  "description": "Bot de Discord para servidor ERLC Roleplay",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["discord", "bot", "erlc", "roleplay"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "sqlite3": "^5.1.7"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
